@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>P7</label>
+	</settings>
+	<users>
+		<user>
+			<path>P7.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>P7.jcp</path>
+		</project>
+	</projects>
+</workspace>
